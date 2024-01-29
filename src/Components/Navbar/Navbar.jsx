@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Navbar.css"
-//import datas from "../../utils/data.js"
+import datas from "../../utils/data.js"
 const Navbar = ({data}) => {
   return (
   <div className='container'>
