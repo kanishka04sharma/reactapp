@@ -25,8 +25,20 @@ const data=[
         avatar:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-user-4.jpg",
         text:"The travel updates feature kept me informed,especially during uncertain times."
     },
+     {
+        id:5,
+        img:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-3.jpg",
+        avatar:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-user-3.jpg",
+        text:" Love the personalized itineraries, keeping me organized throughout trip."
+    },
     {
-         id:5,
+         id:6,
+        img:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-1.jpg",
+        avatar:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-user-1.jpg",
+        text:"The app made booking my trip a breeze—effortless and efficient!"
+    },
+    {
+        id:7,
         img:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-1.jpg",
         avatar:"https://webdesignmastery.github.io/Travel_Hub_13-02-24/assets/customer-user-1.jpg",
         text:"The app made booking my trip a breeze—effortless and efficient!"
